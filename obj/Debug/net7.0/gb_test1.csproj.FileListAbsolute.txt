@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\GetBrains\gb_test1\obj\Debug\net7.0\gb_test1.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\GetBrains\gb_test1\obj\Debug\net7.0\gb_test1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\GetBrains\gb_test1\obj\Debug\net7.0\gb_test1.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\GetBrains\gb_test1\obj\Debug\net7.0\gb_test1.AssemblyInfo.cs
+C:\Users\hp\Desktop\GetBrains\gb_test1\obj\Debug\net7.0\gb_test1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\GetBrains\gb_test1\bin\Debug\net7.0\gb_test1.exe
+C:\Users\hp\Desktop\GetBrains\gb_test1\bin\Debug\net7.0\gb_test1.deps.json
+C:\Users\hp\Desktop\GetBrains\gb_test1\bin\Debug\net7.0\gb_test1.runtimeconfig.json
+C:\Users\hp\Desktop\GetBrains\gb_test1\bin\Debug\net7.0\gb_test1.dll
+C:\Users\hp\Desktop\GetBrains\gb_test1\bin\Debug\net7.0\gb_test1.pdb
+C:\Users\hp\Desktop\GetBrains\gb_test1\obj\Debug\net7.0\gb_test1.dll
+C:\Users\hp\Desktop\GetBrains\gb_test1\obj\Debug\net7.0\refint\gb_test1.dll
+C:\Users\hp\Desktop\GetBrains\gb_test1\obj\Debug\net7.0\gb_test1.pdb
+C:\Users\hp\Desktop\GetBrains\gb_test1\obj\Debug\net7.0\gb_test1.genruntimeconfig.cache
+C:\Users\hp\Desktop\GetBrains\gb_test1\obj\Debug\net7.0\ref\gb_test1.dll
